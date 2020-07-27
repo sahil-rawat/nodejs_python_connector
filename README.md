@@ -25,7 +25,7 @@ npm start
 
 Save your model in folloing format
 
-/models
+/models <br/>
   ├──/CNN.model
   │   ├──/assets
   │   ├──saved_model.pb
