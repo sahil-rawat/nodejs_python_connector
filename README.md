@@ -25,12 +25,7 @@ npm start
 
 Save your model in folloing format
 
-/models
-  ├──/CNN.model
-  │   ├──/assets
-  │   ├──saved_model.pb
-  │   └──/variables
-  ├── model.h5
+<img src="./format.png">
 
   Then copy the models folder and paste in the root directory of projecrt
 
